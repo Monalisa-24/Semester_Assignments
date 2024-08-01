@@ -1,0 +1,5 @@
+firstname = input("Enter your first name : ")
+lastname = input("Enter your last name : ")
+firstname = firstname.capitalize()
+lastname = lastname.capitalize()
+print(f"Your name is : {firstname} {lastname}")
