@@ -5,7 +5,7 @@ public class AllCombination {
     }
 
     public static void generateCombinations() {
-        int[] numbers = {1, 2, 3};
+        int[] numbers = { 1, 2, 3 };
 
         System.out.println("All combinations of 1, 2, or 3:");
 
@@ -21,27 +21,27 @@ public class AllCombination {
     }
 }
 // output
-//All combinations of 1, 2, or 3:
-//1 1 1
-//1 1 2
-//1 1 3
-//1 2 1
-//1 2 2
-//1 2 3
-//1 3 1
-//1 3 2
-//1 3 3
-//2 1 1
-//2 1 2
-//2 1 3
-//2 2 1
-//2 2 2
-//2 2 3
-//2 3 1
-//2 3 2
-//2 3 3
-//3 1 1
-//3 1 2
-//3 1 3
-//3 2 1
-//3 
+// All combinations of 1, 2, or 3:
+// 1 1 1
+// 1 1 2
+// 1 1 3
+// 1 2 1
+// 1 2 2
+// 1 2 3
+// 1 3 1
+// 1 3 2
+// 1 3 3
+// 2 1 1
+// 2 1 2
+// 2 1 3
+// 2 2 1
+// 2 2 2
+// 2 2 3
+// 2 3 1
+// 2 3 2
+// 2 3 3
+// 3 1 1
+// 3 1 2
+// 3 1 3
+// 3 2 1
+// 3 3 3
