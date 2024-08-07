@@ -5,7 +5,7 @@ def calculate_slope(x1, y1, x2, y2):
     return (y2 - y1)/(x2 - x1)
 
 
-slope = calculate_slope(2, 2, 2, 2)
+slope = calculate_slope(1, 2, 3, 4)
 if slope == 0:
     print("Vertical Line.")
 else:

@@ -18,4 +18,4 @@ def _solve_quadratic_eqn_(a, b, c):
         print(f"The solutions are : {(x1, x2)}")
     
 
-_solve_quadratic_eqn_(1, -2, 1)
+_solve_quadratic_eqn_(1, 4, 3)
